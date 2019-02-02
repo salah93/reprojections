@@ -24,3 +24,7 @@ cd GDAL-<version>
 python setup.py build_ext --include-dirs=/usr/include/gdal/
 python setup.py install
 ```
+
+
+## link to notebook
+https://crosscompute.com/n/rnwHfyF4mFI8pcASObG7e87N4SgL2XVu
